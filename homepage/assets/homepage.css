@@ -801,3 +801,6 @@ footer {
 .buttonContainer:hover img {
   opacity: 1;
 }
+.nothing{
+  color: none;
+}
